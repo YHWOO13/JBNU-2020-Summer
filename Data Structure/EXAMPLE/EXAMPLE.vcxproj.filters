@@ -15,6 +15,9 @@
     </Filter>
   </ItemGroup>
   <ItemGroup>
+    <ClCompile Include="exchange rate calculation.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
     <ClCompile Include="BMI TEST.c">
       <Filter>소스 파일</Filter>
     </ClCompile>
