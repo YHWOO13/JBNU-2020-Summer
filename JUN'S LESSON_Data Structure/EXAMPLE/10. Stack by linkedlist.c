@@ -20,11 +20,6 @@ int size() {
 	return count;
 }
 
-void full()
-{
-	printf("-------------Stack is full.-------------\n");
-}
-
 void empty()
 {
 	printf("-------------Stack is empty.-------------\n");
