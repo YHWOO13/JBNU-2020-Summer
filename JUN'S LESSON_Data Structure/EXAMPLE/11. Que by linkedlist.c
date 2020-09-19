@@ -1,3 +1,7 @@
+/*Author: Yoonhyuck WOO / JBNU_Industrial Information system Engineering
+  Date; Sep. 19 2020
+  Title:  Que by linkedlist*/
+
 #include<stdio.h>
 #include<stdlib.h>
 
