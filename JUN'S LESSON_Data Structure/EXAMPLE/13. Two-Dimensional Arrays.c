@@ -15,6 +15,7 @@ int main()
 		arr[i] = (int*)malloc(sizeof(int) * width);
 	}
 	
+	// Two-Dimensional Arrays
 	for (x = 0; x <5; x++)
 	{
 		for (y = 0; y < 5; y++)
@@ -25,6 +26,7 @@ int main()
 		printf("\n");
 	}
 
+	// Sum trace
 	for (z = 0; z < 5; z++)
 	{
 		temp = arr[z][z] + temp;
